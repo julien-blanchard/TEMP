@@ -1,0 +1,801 @@
+Sure, here are the first 5 reports:
+
+**Report 1**
+
+Date: 2023-07-24
+
+Time: 10:00 AM
+
+Location: Main Street
+
+**Summary**
+
+The wastewater network on Main Street is in good condition. There are no leaks or blockages. The flow of wastewater is normal.
+
+**Recommendations**
+
+No action is required at this time.
+
+**Report 2**
+
+Date: 2023-07-24
+
+Time: 11:00 AM
+
+Location: Elm Street
+
+**Summary**
+
+There is a blockage in the wastewater network on Elm Street. The blockage is causing sewage to back up into the street.
+
+**Recommendations**
+
+The blockage will be cleared as soon as possible. Residents in the area are advised to avoid the area until the blockage is cleared.
+
+**Report 3**
+
+Date: 2023-07-24
+
+Time: 12:00 PM
+
+Location: Oak Street
+
+**Summary**
+
+There is a leak in the wastewater network on Oak Street. The leak is causing sewage to leak into the ground.
+
+**Recommendations**
+
+The leak will be repaired as soon as possible. Residents in the area are advised to avoid the area until the leak is repaired.
+
+**Report 4**
+
+Date: 2023-07-24
+
+Time: 1:00 PM
+
+Location: Maple Street
+
+**Summary**
+
+The wastewater network on Maple Street is in good condition. There are no leaks or blockages. The flow of wastewater is normal.
+
+**Recommendations**
+
+No action is required at this time.
+
+**Report 5**
+
+Date: 2023-07-24
+
+Time: 2:00 PM
+
+Location: Pine Street
+
+**Summary**
+
+There is a foul odor coming from the wastewater network on Pine Street. The odor is likely caused by a blockage or leak.
+
+**Recommendations**
+
+The wastewater network will be inspected to determine the cause of the odor. Residents in the area are advised to avoid the area until the odor is resolved.
+
+**Report 6**
+
+Date: 2023-07-24
+
+Time: 12:30 PM
+
+Location: Birch Street
+
+**Summary**
+
+The wastewater network on Birch Street is in good condition. There are no leaks or blockages. The flow of wastewater is normal.
+
+**Recommendations**
+
+No action is required at this time.
+
+**Report 7**
+
+Date: 2023-07-24
+
+Time: 1:00 PM
+
+Location: Cedar Street
+
+**Summary**
+
+There is a slight blockage in the wastewater network on Cedar Street. The blockage is causing the flow of wastewater to slow down.
+
+**Recommendations**
+
+The blockage will be cleared as soon as possible. Residents in the area are advised to avoid flushing toilets or using other plumbing fixtures until the blockage is cleared.
+
+**Report 8**
+
+Date: 2023-07-24
+
+Time: 1:30 PM
+
+Location: Elm Street
+
+**Summary**
+
+The blockage on Elm Street has been cleared. The flow of wastewater is now normal.
+
+**Recommendations**
+
+No further action is required at this time.
+
+**Report 9**
+
+Date: 2023-07-24
+
+Time: 2:00 PM
+
+Location: Maple Street
+
+**Summary**
+
+There is a leak in the wastewater network on Maple Street. The leak is causing sewage to leak into the ground.
+
+**Recommendations**
+
+The leak will be repaired as soon as possible. Residents in the area are advised to avoid the area until the leak is repaired.
+
+**Report 10**
+
+Date: 2023-07-24
+
+Time: 2:30 PM
+
+Location: Oak Street
+
+**Summary**
+
+The leak on Oak Street has been repaired. The flow of wastewater is now normal.
+
+**Recommendations**
+
+No further action is required at this time.
+
+**Report 11**
+
+Date: 2023-07-24
+
+Time: 11:00 AM
+
+Location: Birch Street
+
+**Summary**
+
+The wastewater network on Birch Street is in good condition. There are no leaks or blockages. The flow of wastewater is normal.
+
+**Recommendations**
+
+No action is required at this time.
+
+**Report 12**
+
+Date: 2023-07-24
+
+Time: 11:30 AM
+
+Location: Cedar Street
+
+**Summary**
+
+There is a slight blockage in the wastewater network on Cedar Street. The blockage is causing a slight delay in the flow of wastewater.
+
+**Recommendations**
+
+The blockage will be cleared as soon as possible. Residents in the area are not advised to take any action at this time.
+
+**Report 13**
+
+Date: 2023-07-24
+
+Time: 12:00 PM
+
+Location: Elm Street
+
+**Summary**
+
+The blockage on Elm Street has been cleared. The flow of wastewater is now normal.
+
+**Recommendations**
+
+No further action is required.
+
+**Report 14**
+
+Date: 2023-07-24
+
+Time: 12:30 PM
+
+Location: Maple Street
+
+**Summary**
+
+There is a leak in the wastewater network on Maple Street. The leak is causing sewage to leak into the ground.
+
+**Recommendations**
+
+The leak will be repaired as soon as possible. Residents in the area are advised to avoid the area until the leak is repaired.
+
+**Report 15**
+
+Date: 2023-07-24
+
+Time: 1:00 PM
+
+Location: Oak Street
+
+**Summary**
+
+The leak on Oak Street has been repaired. The wastewater network is now in good condition.
+
+**Recommendations**
+
+No further action is required.
+
+**Report 16**
+
+Date: 2023-07-24
+
+Time: 2:00 PM
+
+Location: Birch Street
+
+**Summary**
+
+The wastewater network on Birch Street is in good condition. There are no leaks or blockages. The flow of wastewater is normal.
+
+**Recommendations**
+
+No action is required at this time.
+
+**Report 17**
+
+Date: 2023-07-24
+
+Time: 3:00 PM
+
+Location: Cedar Street
+
+**Summary**
+
+There is a slight blockage in the wastewater network on Cedar Street. The blockage is causing a slight slowdown in the flow of wastewater.
+
+**Recommendations**
+
+The blockage will be cleared as soon as possible. Residents in the area are not advised to take any action at this time.
+
+**Report 18**
+
+Date: 2023-07-24
+
+Time: 4:00 PM
+
+Location: Elm Street
+
+**Summary**
+
+There is a leak in the wastewater network on Elm Street. The leak is causing sewage to leak into the ground.
+
+**Recommendations**
+
+The leak will be repaired as soon as possible. Residents in the area are advised to avoid the area until the leak is repaired.
+
+**Report 19**
+
+Date: 2023-07-24
+
+Time: 5:00 PM
+
+Location: Maple Street
+
+**Summary**
+
+The wastewater network on Maple Street is in good condition. There are no leaks or blockages. The flow of wastewater is normal.
+
+**Recommendations**
+
+No action is required at this time.
+
+**Report 20**
+
+Date: 2023-07-24
+
+Time: 6:00 PM
+
+Location: Oak Street
+
+**Summary**
+
+There is a blockage in the wastewater network on Oak Street. The blockage is causing sewage to back up into the street.
+
+**Recommendations**
+
+The blockage will be cleared as soon as possible. Residents in the area are advised to avoid the area until the blockage is cleared.
+
+**Report 21**
+
+Date: 2023-07-24
+
+Time: 1:00 PM
+
+Location: Birch Street
+
+**Summary**
+
+The wastewater network on Birch Street is in good condition. There are no leaks or blockages. The flow of wastewater is normal.
+
+**Recommendations**
+
+No action is required at this time.
+
+**Report 22**
+
+Date: 2023-07-24
+
+Time: 2:00 PM
+
+Location: Cedar Street
+
+**Summary**
+
+There is a slight leak in the wastewater network on Cedar Street. The leak is not causing any major problems, but it is being monitored.
+
+**Recommendations**
+
+The leak will be repaired as soon as possible. Residents in the area are not advised to take any action at this time.
+
+**Report 23**
+
+Date: 2023-07-24
+
+Time: 3:00 PM
+
+Location: Elm Street
+
+**Summary**
+
+The blockage on Elm Street has been cleared. The flow of wastewater is now normal.
+
+**Recommendations**
+
+No further action is required.
+
+**Report 24**
+
+Date: 2023-07-24
+
+Time: 4:00 PM
+
+Location: Maple Street
+
+**Summary**
+
+There is a new blockage in the wastewater network on Maple Street. The blockage is causing sewage to back up into the street.
+
+**Recommendations**
+
+The blockage will be cleared as soon as possible. Residents in the area are advised to avoid the area until the blockage is cleared.
+
+**Report 25**
+
+Date: 2023-07-24
+
+Time: 5:00 PM
+
+Location: Oak Street
+
+**Summary**
+
+The leak on Oak Street has been repaired. The wastewater network is now in good condition.
+
+**Recommendations**
+
+No further action is required.
+
+**Report 26**
+
+Date: 2023-07-24
+
+Time: 10:30 AM
+
+Location: Birch Street
+
+**Summary**
+
+The wastewater network on Birch Street is in good condition. There are no leaks or blockages. The flow of wastewater is normal.
+
+**Recommendations**
+
+No action is required at this time.
+
+**Report 27**
+
+Date: 2023-07-24
+
+Time: 11:00 AM
+
+Location: Cedar Street
+
+**Summary**
+
+There is a small leak in the wastewater network on Cedar Street. The leak is causing sewage to leak into the ground.
+
+**Recommendations**
+
+The leak will be repaired as soon as possible. Residents in the area are advised to avoid the area until the leak is repaired.
+
+**Report 28**
+
+Date: 2023-07-24
+
+Time: 11:30 AM
+
+Location: Elm Street
+
+**Summary**
+
+The wastewater network on Elm Street is in good condition. There are no leaks or blockages. The flow of wastewater is normal.
+
+**Recommendations**
+
+No action is required at this time.
+
+**Report 29**
+
+Date: 2023-07-24
+
+Time: 12:00 PM
+
+Location: Maple Street
+
+**Summary**
+
+There is a blockage in the wastewater network on Maple Street. The blockage is causing sewage to back up into the street.
+
+**Recommendations**
+
+The blockage will be cleared as soon as possible. Residents in the area are advised to avoid the area until the blockage is cleared.
+
+**Report 30**
+
+Date: 2023-07-24
+
+Time: 12:30 PM
+
+Location: Oak Street
+
+**Summary**
+
+There is a large leak in the wastewater network on Oak Street. The leak is causing sewage to leak into the ground and into the nearby river.
+
+**Recommendations**
+
+The leak will be repaired as soon as possible. Residents in the area are advised to avoid the area until the leak is repaired. The river is also closed to swimming and fishing until the leak is repaired.
+
+**Report 31**
+
+Date: 2023-07-24
+
+Time: 10:30 AM
+
+Location: Birch Street
+
+**Summary**
+
+The wastewater network on Birch Street is in good condition. There are no leaks or blockages. The flow of wastewater is normal.
+
+**Recommendations**
+
+No action is required at this time.
+
+**Report 32**
+
+Date: 2023-07-24
+
+Time: 11:00 AM
+
+Location: Cedar Street
+
+**Summary**
+
+There is a leak in the wastewater network on Cedar Street. The leak is causing sewage to leak into the ground.
+
+**Recommendations**
+
+The leak will be repaired as soon as possible. Residents in the area are advised to avoid the area until the leak is repaired.
+
+**Report 33**
+
+Date: 2023-07-24
+
+Time: 11:30 AM
+
+Location: Elm Street
+
+**Summary**
+
+There is a blockage in the wastewater network on Elm Street. The blockage is causing sewage to back up into the street.
+
+**Recommendations**
+
+The blockage will be cleared as soon as possible. Residents in the area are advised to avoid the area until the blockage is cleared.
+
+**Report 34**
+
+Date: 2023-07-24
+
+Time: 12:00 PM
+
+Location: Maple Street
+
+**Summary**
+
+The wastewater network on Maple Street is in good condition. There are no leaks or blockages. The flow of wastewater is normal.
+
+**Recommendations**
+
+No action is required at this time.
+
+**Report 35**
+
+Date: 2023-07-24
+
+Time: 12:30 PM
+
+Location: Oak Street
+
+**Summary**
+
+There is a blockage in the wastewater network on Oak Street. The blockage is causing sewage to back up into the street.
+
+**Recommendations**
+
+The blockage will be cleared as soon as possible. Residents in the area are advised to avoid the area until the blockage is cleared.
+
+**Report 36**
+
+Date: 2023-07-24
+
+Time: 2:00 PM
+
+Location: Birch Street
+
+**Summary**
+
+The wastewater network on Birch Street is in good condition. There are no leaks or blockages. The flow of wastewater is normal.
+
+**Recommendations**
+
+No action is required at this time.
+
+**Report 37**
+
+Date: 2023-07-24
+
+Time: 3:00 PM
+
+Location: Cedar Street
+
+**Summary**
+
+There is a slight blockage in the wastewater network on Cedar Street. The blockage is causing a slight backup of sewage in the street.
+
+**Recommendations**
+
+The blockage will be cleared as soon as possible. Residents in the area are advised to avoid the area until the blockage is cleared.
+
+**Report 38**
+
+Date: 2023-07-24
+
+Time: 4:00 PM
+
+Location: Elm Street
+
+**Summary**
+
+There is a leak in the wastewater network on Elm Street. The leak is causing sewage to leak into the ground.
+
+**Recommendations**
+
+The leak will be repaired as soon as possible. Residents in the area are advised to avoid the area until the leak is repaired.
+
+**Report 39**
+
+Date: 2023-07-24
+
+Time: 5:00 PM
+
+Location: Oak Street
+
+**Summary**
+
+The wastewater network on Oak Street is in good condition. There are no leaks or blockages. The flow of wastewater is normal.
+
+**Recommendations**
+
+No action is required at this time.
+
+**Report 40**
+
+Date: 2023-07-24
+
+Time: 6:00 PM
+
+Location: Maple Street
+
+**Summary**
+
+There is a slight blockage in the wastewater network on Maple Street. The blockage is causing a slight backup of sewage in the street.
+
+**Recommendations**
+
+The blockage will be cleared as soon as possible. Residents in the area are advised to avoid the area until the blockage is cleared.
+
+**Report 41**
+
+Date: 2023-07-24
+
+Time: 1:00 PM
+
+Location: Birch Street
+
+**Summary**
+
+The wastewater network on Birch Street is in good condition. There are no leaks or blockages. The flow of wastewater is normal.
+
+**Recommendations**
+
+No action is required at this time.
+
+**Report 42**
+
+Date: 2023-07-24
+
+Time: 2:00 PM
+
+Location: Cedar Street
+
+**Summary**
+
+There is a leak in the wastewater network on Cedar Street. The leak is causing sewage to leak into the ground.
+
+**Recommendations**
+
+The leak will be repaired as soon as possible. Residents in the area are advised to avoid the area until the leak is repaired.
+
+**Report 43**
+
+Date: 2023-07-24
+
+Time: 3:00 PM
+
+Location: Elm Street
+
+**Summary**
+
+There is a blockage in the wastewater network on Elm Street. The blockage is causing sewage to back up into the street.
+
+**Recommendations**
+
+The blockage will be cleared as soon as possible. Residents in the area are advised to avoid the area until the blockage is cleared.
+
+**Report 44**
+
+Date: 2023-07-24
+
+Time: 4:00 PM
+
+Location: Maple Street
+
+**Summary**
+
+The wastewater network on Maple Street is in good condition. There are no leaks or blockages. The flow of wastewater is normal.
+
+**Recommendations**
+
+No action is required at this time.
+
+**Report 45**
+
+Date: 2023-07-24
+
+Time: 5:00 PM
+
+Location: Oak Street
+
+**Summary**
+
+There is a blockage in the wastewater network on Oak Street. The blockage is causing sewage to back up into the street.
+
+**Recommendations**
+
+The blockage will be cleared as soon as possible. Residents in the area are advised to avoid the area until the blockage is cleared.
+
+**Report 46**
+
+Date: 2023-07-24
+
+Time: 10:00 AM
+
+Location: Birch Street
+
+**Summary**
+
+The wastewater network on Birch Street is in good condition. There are no leaks or blockages. The flow of wastewater is normal.
+
+**Recommendations**
+
+No action is required at this time.
+
+**Report 47**
+
+Date: 2023-07-24
+
+Time: 11:00 AM
+
+Location: Cedar Street
+
+**Summary**
+
+There is a slight blockage in the wastewater network on Cedar Street. The blockage is causing sewage to back up into a few homes in the area.
+
+**Recommendations**
+
+The blockage will be cleared as soon as possible. Residents in the area are advised to avoid using their toilets until the blockage is cleared.
+
+**Report 48**
+
+Date: 2023-07-24
+
+Time: 12:00 PM
+
+Location: Elm Street
+
+**Summary**
+
+There is a leak in the wastewater network on Elm Street. The leak is causing sewage to leak into the ground.
+
+**Recommendations**
+
+The leak will be repaired as soon as possible. Residents in the area are advised to avoid the area until the leak is repaired.
+
+**Report 49**
+
+Date: 2023-07-24
+
+Time: 1:00 PM
+
+Location: Maple Street
+
+**Summary**
+
+The wastewater network on Maple Street is in good condition. There are no leaks or blockages. The flow of wastewater is normal.
+
+**Recommendations**
+
+No action is required at this time.
+
+**Report 50**
+
+Date: 2023-07-24
+
+Time: 2:00 PM
+
+Location: Oak Street
+
+**Summary**
+
+There is a blockage in the wastewater network on Oak Street. The blockage is causing sewage to back up into the street.
+
+**Recommendations**
+
+The blockage will be cleared as soon as possible. Residents in the area are advised to avoid the area until the blockage is cleared.
