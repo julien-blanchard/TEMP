@@ -1,0 +1,81 @@
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+    <script src="stantec.js" defer></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/apache-arrow@latest"></script>
+    <script src="https://cdn.jsdelivr.net/npm/arquero@latest"></script>
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+    <title>Stantec Digital Team</title>
+</head>
+
+<body>
+    <section class="section">
+          <div class="container">
+              <div class="block">
+                  <h1 class="title">
+                    Stantec Digital Team
+                  </h1>
+              </div>
+              <div class="block">
+                  <p class="subtitle">
+                      Visualising and forecasting wastewater networks
+                    </p>
+              </div>
+  
+              <div class="field is-grouped">
+                <p class="control has-icons-left">
+                  <input class="input" id="api_key" type="text" placeholder="Enter your API key">
+                  <span class="icon is-small is-left">
+                    <i class="fa-solid fa-key"></i>
+                  </span>
+                </p>
+                <p class="control has-icons-left">
+                  <input class="input" id="lat" type="text" placeholder="Enter a latitude">
+                  <span class="icon is-small is-left">
+                    <i class="fa-solid fa-cloud-showers-water"></i>
+                  </span>
+                </p>
+                <p class="control has-icons-left">
+                  <input class="input" id="lon" type="text" placeholder="Enter a longitude">
+                  <span class="icon is-small is-left">
+                    <i class="fa-solid fa-cloud-showers-water"></i>
+                  </span>
+                </p>
+                <div class="select">
+                  <select id="choice">
+                    <option>Dataframe</option>
+                    <option>Forecast</option>
+                  </select>
+                </div>
+              </div>
+  
+              <div class="field is-grouped">
+                <p class="control">
+                  <a class="button is-info is-outlined" id="press_fetch">
+                    <span class="icon">
+                      <i class="fa-regular fa-circle-check"></i>
+                    </span>
+                    <span>Fetch</span>
+                  </a>
+                  <a class="button is-info is-outlined" id="press_clear">
+                    <span class="icon">
+                      <i class="fa-regular fa-trash-can"></i>
+                    </span>
+                    <span>Clear</span>
+                  </a>
+                </p>
+              </div>
+  
+          </div>
+        </section>
+        <section class="section">
+          <div class="container">
+            <table class="table is-striped is-hoverable table is-fullwidth" id="viz_df"></table>
+            <div id="viz_plot"></div>
+          </div>
+        </section>
+  </body>
